@@ -16,7 +16,7 @@ With the atom package manager:
 ```bash
 apm install activate-power-mode
 ```
-Or Settings ➔ Packages ➔ Search for `activate-power-mode`
+Or Settings ➔ Install ➔ Search for `activate-power-mode`
 
 ## Usage
 
